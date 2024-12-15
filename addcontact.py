@@ -1,4 +1,3 @@
-userinput=int(input())
 
 def addcontact():
     count = 0
